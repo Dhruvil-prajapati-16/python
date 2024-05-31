@@ -1,13 +1,12 @@
-
 ### Basic Information:
 
-| Category            | Description                                          |
-|---------------------|------------------------------------------------------|
-| Language            | Python                                               |
-| Type                | High-level, interpreted                              |
-| Paradigm            | Multi-paradigm: object-oriented, imperative, functional |
-| First Release       | 1991                                                 |
-| Designed by         | Guido van Rossum                                     |
+| Category            | Description                                                                                 |
+|---------------------|---------------------------------------------------------------------------------------------|
+| Language            | Python                                                                                      |
+| Type                | High-level , interpreted , Dynamically Typed , Indentation-based Syntax: , Object-Oriented  |
+| Paradigm            | Multi-paradigm: object-oriented, imperative, functional                                     |
+| First Release       | 1991                                                                                        |
+| Designed by         | Guido van Rossum                                                                            |
 
 ### Features:
 
@@ -15,7 +14,7 @@
 |---------------------------|------------------------------------------------------|
 | Easy to Learn and Read    | Simple syntax, readable code                         |
 | Expressive Language       | Clear, concise, and maintainable code                |
-| Extensive Standard Library| Vast collection of modules and functions              |
+| Extensive Standard Library| Vast collection of modules and functions             |
 | Dynamic Typing            | Variables are dynamically typed                      |
 | Memory Management         | Automatic memory management                          |
 | Cross-platform            | Available on Windows, macOS, Linux                   |
@@ -27,10 +26,10 @@
 |-----------------------|------------------------------------------------------|
 | Web Development       | Django, Flask frameworks for web applications        |
 | Data Science          | NumPy, pandas, scikit-learn for data analysis        |
-| Machine Learning      | TensorFlow, PyTorch for machine learning              |
-| Scripting and Automation | Automating tasks, system administration            |
+| Machine Learning      | TensorFlow, PyTorch for machine learning             |
+| Scripting and Automation | Automating tasks, system administration           |
 | Desktop GUI           | Tkinter, PyQt for building desktop GUI applications  |
-| Game Development      | Pygame for 2D game development                        |
+| Game Development      | Pygame for 2D game development                       |
 | Scientific Computing  | Scientific simulations, modeling, visualization      |
 
 ### Reasons Why Python:
@@ -39,8 +38,8 @@
 |---------------------------|------------------------------------------------------|
 | Ease of Learning          | Simple syntax, easy to understand                    |
 | Productivity              | High-level abstractions, extensive libraries         |
-| Versatility               | Wide range of applications, domains                   |
+| Versatility               | Wide range of applications, domains                  |
 | Community and Ecosystem   | Vibrant community, extensive ecosystem               |
 | Industry Adoption         | Widely adopted by tech giants, enterprises           |
-| Open Source               | Free, open source, encourages collaboration           |
+| Open Source               | Free, open source, encourages collaboration          |
 
