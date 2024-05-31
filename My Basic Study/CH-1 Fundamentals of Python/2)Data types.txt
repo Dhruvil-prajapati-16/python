@@ -1,0 +1,31 @@
+
+1. Numeric Types:
+   - int: Integer type representing whole numbers.
+   - float: Floating-point type representing decimal numbers.
+   - complex: Complex numbers with real and imaginary parts.
+
+2. Boolean Type:
+   - bool: Boolean type representing True or False values.
+
+3. Text Type:
+   - str: String type representing sequences of characters.
+
+4. Sequence Types:
+   - list: Ordered, mutable collection of elements.
+   - tuple: Ordered, immutable collection of elements.
+   - range: Represents a range of numbers.
+
+5. Set Types:
+   - set: Unordered, mutable collection of unique elements.
+   - frozenset: Immutable version of set.
+
+6. Mapping Type:
+   - dict: Collection of key-value pairs, also known as dictionaries or associative arrays.
+
+7. Binary Types:
+   - bytes: Immutable sequence of bytes.
+   - bytearray: Mutable sequence of bytes.
+
+8. Other Types:
+   - memoryview: Memory view object used to access the internal data of an object that supports the buffer protocol.
+   - NoneType: Type representing the absence of a value, typically used as the return type of functions that don't explicitly return anything.

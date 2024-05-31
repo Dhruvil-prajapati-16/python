@@ -1,0 +1,81 @@
+
+1. `False`
+2. `None`
+3. `True`
+4. `and`
+5. `as`
+6. `assert`
+7. `async`
+8. `await`
+9. `break`
+10. `class`
+11. `continue`
+12. `def`
+13. `del`
+14. `elif`
+15. `else`
+16. `except`
+17. `finally`
+18. `for`
+19. `from`
+20. `global`
+21. `if`
+22. `import`
+23. `in`
+24. `is`
+25. `lambda`
+26. `nonlocal`
+27. `not`
+28. `or`
+29. `pass`
+30. `raise`
+31. `return`
+32. `try`
+33. `while`
+34. `with`
+35. `yield`
+
+
+```python
+import keyword
+print(keyword.kwlist)
+```
+-------------------------------------------------
+
+1. False: Boolean value representing false.
+2. None: A special constant representing null or no value.
+3. True: Boolean value representing true.
+4. and: Logical operator performing a boolean "and" operation.
+5. as: Used in context managers to alias a module or import.
+6. assert: Used for debugging purposes to assert a condition.
+7. async: Declares an asynchronous function or context manager.
+8. await: Used to pause execution in an asynchronous function until an awaited coroutine is completed.
+9. break: Used to exit from a loop.
+10. class: Defines a new class.
+11. continue: Skips the rest of the loop and continues with the next iteration.
+12. def: Defines a new function.
+13. del: Deletes a reference to an object.
+14. elif: Part of an if statement to check additional conditions.
+15. else: Part of an if statement executed when the condition is false.
+16. except: Catches exceptions and handles them.
+17. finally: Part of a try-except block, always executed whether an exception occurs or not.
+18. for: Used for iterating over a sequence (e.g., list, tuple, dictionary).
+19. from: Used in import statements to import specific attributes or submodules.
+20. global: Declares a variable as global inside a function.
+21. if: Conditionally executes code based on a condition.
+22. import: Imports modules or objects into a script.
+23. in: Tests whether a value is present in a sequence.
+24. is: Tests whether two variables refer to the same object.
+25. lambda: Defines an anonymous function.
+26. nonlocal: Declares a variable as nonlocal inside a nested function.
+27. not: Logical operator performing a boolean "not" operation.
+28. or: Logical operator performing a boolean "or" operation.
+29. pass: Placeholder indicating no operation to be performed.
+30. raise: Raises an exception.
+31. return: Exits a function and returns a value.
+32. try: Handles exceptions in a block of code.
+33. while: Executes a block of code as long as a condition is true.
+34. with: Creates a context manager to simplify resource management.
+35. yield: Returns a value from a generator function, suspending its execution temporarily.
+
+---------------------------------------------------------------------------------------------------

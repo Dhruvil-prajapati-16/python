@@ -1,0 +1,79 @@
+
+### Arithmetic Operators:
+
+| Operator         | Symbol | Example        |
+|------------------|--------|----------------|
+| Addition         | +      | `x + y`        |
+| Subtraction      | -      | `x - y`        |
+| Multiplication   | *      | `x * y`        |
+| Division         | /      | `x / y`        |
+| Modulus          | %      | `x % y`        |
+| Exponentiation   | **     | `x ** y`       |
+| Floor Division   | //     | `x // y`       |
+
+### Assignment Operators:
+
+| Operator                   | Symbol | Example        |
+|----------------------------|--------|----------------|
+| Assignment                 | =      | `x = y`        |
+| Addition Assignment        | +=     | `x += y`       |
+| Subtraction Assignment     | -=     | `x -= y`       |
+| Multiplication Assignment  | *=     | `x *= y`       |
+| Division Assignment        | /=     | `x /= y`       |
+| Modulus Assignment         | %=     | `x %= y`       |
+| Exponentiation Assignment  | **=    | `x **= y`      |
+| Floor Division Assignment  | //=    | `x //= y`      |
+
+### Comparison Operators:
+
+| Operator                    | Symbol | Example        |
+|-----------------------------|--------|----------------|
+| Equal to                    | ==     | `x == y`       |
+| Not equal to                | !=     | `x != y`       |
+| Greater than                | >      | `x > y`        |
+| Less than                   | <      | `x < y`        |
+| Greater than or equal to    | >=     | `x >= y`       |
+| Less than or equal to       | <=     | `x <= y`       |
+
+### Logical Operators:
+
+| Operator    | Symbol | Example      |
+|-------------|--------|--------------|
+| Logical AND | and    | `a and b`    |
+| Logical OR  | or     | `a or b`     |
+| Logical NOT | not    | `not a`      |
+
+### Identity Operators:
+
+| Operator   | Symbol | Example        |
+|------------|--------|----------------|
+| Identity   | is     | `x is y`       |
+| Non-Identity | is not | `x is not y` |
+
+### Membership Operators:
+
+| Operator   | Symbol | Example        |
+|------------|--------|----------------|
+| Membership | in     | `x in y`       |
+| Non-Membership | not in | `x not in y` |
+
+### Bitwise Operators:
+
+| Operator       | Symbol | Example        |
+|----------------|--------|----------------|
+| Bitwise AND   | &      | `x & y`        |
+| Bitwise OR    | \|     | `x \| y`       |
+| Bitwise XOR   | ^      | `x ^ y`        |
+| Bitwise NOT   | ~      | `~x`           |
+| Left Shift    | <<     | `x << y`       |
+| Right Shift   | >>     | `x >> y`       |
+
+
+### Ternary Operator (Conditional Expression):
+
+true_value if condition else false_value
+
+### Unary Operators:
+
+Unary operators work with only one operand.
+They are often used to perform operations like negation, logical inversion, or bitwise negation on a single operand.
