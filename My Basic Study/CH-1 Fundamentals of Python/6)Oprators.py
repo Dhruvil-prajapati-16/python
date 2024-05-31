@@ -45,7 +45,7 @@ print(num1 << 1)    # Output: 20 (Left shift)
 print(num1 >> 1)    # Output: 5 (Right shift)
 
 # ternary operator
-a = 10
-b = 20
-result = "a is minimum" if a < b else "b is minimum"
+k = 10
+p = 20
+result = "k is minimum" if k < p else "p is minimum"
 print(result)
